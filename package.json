@@ -1,0 +1,27 @@
+{
+  "name": "juego",
+  "version": "1.0.0",
+  "description": "Juego de preguntas",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Marleja"
+  },
+  "keywords": [
+    "juego",
+    "trivia",
+    "preguntas"
+  ],
+  "author": "Marcela Susatama",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "consolidate": "^0.13.1",
+    "express": "^4.13.3",
+    "mysql": "^2.9.0",
+    "swig": "^1.4.2"
+  }
+}
